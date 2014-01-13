@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qbrows">
+        <file>close.png</file>
+        <file>add.png</file>
+        <file>back.png</file>
+        <file>forward.png</file>
+        <file>go.png</file>
+        <file>loading.gif</file>
+        <file>bookmarks.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>
